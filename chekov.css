@@ -1,0 +1,26 @@
+.speech {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: #000;
+}
+.direction {
+    font-family:'Courier New', Courier, monospace;
+    font-size:medium;
+    color:#000;
+}
+.direction:hover{
+    background-color:darkgoldenrod;
+    color: #000;
+}
+.VOITSKI{
+    color:brown;
+}
+.SONIA{
+    color:cadetblue;
+}
+.ASTROFF{
+    color:cornflowerblue;
+}
+.HELENA{
+    color:darkcyan;
+}
