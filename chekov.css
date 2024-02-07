@@ -24,6 +24,13 @@
 .HELENA{
     color:darkcyan;
 }
+.HELENA:hover{
+    text-shadow: 2px 2px 5px black;
+}
+.ASTROFF:hover{
+    text-shadow: 3px 3px 6px seagreen;
+}
+
 table,th,td{
     border:1px solid darkgoldenrod;
     color:brown;
